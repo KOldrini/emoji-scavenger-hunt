@@ -9,7 +9,7 @@
      * fill property, the color property is for HTML only */
   </style>
   
-  <text x="48" y="180" class="heavy">Letto</text>
+  <text x="28" y="180" class="heavy">Il Letto</text>
   <g id="Layer_1">
     <path d="M-284.83,92h76.85c17.69,0,29.98,3.76,29.98,8.81v0V111h-107L-284.83,92z" style="fill:#BDBDBD;"/>
     <rect height="111.83" style="fill:#757575;" transform="matrix(8.344596e-11 1 -1 8.344596e-11 -124.0833 340.0833)" width="8" x="-236.08" y="52.08"/>
