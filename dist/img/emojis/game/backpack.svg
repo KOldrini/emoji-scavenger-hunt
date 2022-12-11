@@ -1,4 +1,15 @@
-<svg width="128" height="128" style="enable-background:new 0 0 128 128;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="200" height="200" style="enable-background:new 0 0 128 128;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <style>
+     .heavy {
+      font: 50px serif;
+      fill: #282A35
+    }
+
+    /* Note that the color of the text is set with the    *
+     * fill property, the color property is for HTML only */
+  </style>
+  
+  <text x="10" y="180" class="heavy">Lo Zaino</text>
   <g id="Layer_1">
     <g>
       <path d="M63.86,4L63.86,4c-12.1,0-22,9.72-22,21.59v3.38c0,3.65,2.2,6.65,6.6,7.02v-10.4 c0-8.31,6.93-15.11,15.4-15.11h0c8.51,0,15.4,6.77,15.4,15.11v10.42c3.3-0.2,6.6-3.27,6.6-7.04v-3.38 C85.86,13.67,76.01,4,63.86,4z" style="fill:#1565C0;"/>
